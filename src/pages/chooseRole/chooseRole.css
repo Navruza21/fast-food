@@ -1,0 +1,15 @@
+.chooseRoleCont {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: rgb(241, 244, 250);
+}
+.cardChooseRole {
+  background-color: #445569 !important;
+  /* border: 3px solid rgb(132, 149, 169) !important; */
+}
+.notSelectedRole {
+  background-color: rgb(129, 144, 161) !important;
+}
+.bg {
+  color: #384a61;
+}
